@@ -1,3 +1,5 @@
 Este es un mensaje de prueba en git...
 
+tengo 16 años y nací en Colombia.
+
 The Beatles es la mejor banda de la historia.
