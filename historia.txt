@@ -1,5 +1,5 @@
-Este es un mensaje de prueba en git...
+Esta es la historia de Alejandro Martinez.
 
-tengo 16 años y nací en Colombia.
+Alejandro tiene 16 años y nacio en Colombia.
 
-The Beatles es la mejor banda de la historia.
+Hoy hablaremos de su vida.
