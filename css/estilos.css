@@ -54,6 +54,13 @@ body
     padding: 1em;
 }
 
+#harrison
+{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
 #footer
 {
     background: #777;
